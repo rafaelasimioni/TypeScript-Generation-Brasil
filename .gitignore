@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Arquivos compilados
+dist/
+build/
+out/
+*.js
+*.js.map
+
+# Arquivos temporários
+*.log
+.DS_Store
+
+# Configurações do sistema/IDE
+.env
+.vscode/
+.idea/
+
+# Arquivos de cache
+*.tsbuildinfo
